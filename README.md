@@ -48,3 +48,6 @@ To run this package, simply:
   - documentation for how to move in the scene view can be found here: https://docs.unity3d.com/Manual/SceneViewNavigation.html
 12. If you wish to use this plugin, please use this program to generate and replace the example files in the "FireSimulator" component: https://github.com/ruiwu1990/jessie_fire_simulation/tree/Dockerized
   - I also strongly recommend having a good understanding of Unity and Shaders before diving into this plugin.
+
+
+This has not been entirely tested with different maps or differently generated maps, use with https://github.com/ruiwu1990/jessie_fire_simulation/tree/Dockerized for the best results
